@@ -35,4 +35,4 @@ button.addEventListener('click', () => {
   // alert('The form has errors');
   result.innerHTML = '';
  }
-} )
+} ) 

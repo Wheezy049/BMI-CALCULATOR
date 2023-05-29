@@ -34,6 +34,8 @@ input{
  border: none;
  outline: none;
  height: 30px;
+ padding: 10px;
+ font-size: 20px;
 }
 #btn{
  background: none;
